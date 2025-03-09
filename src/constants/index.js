@@ -263,7 +263,7 @@ const projects = [
       },
     ],
     image: twitter,
-    source_code_link: "https://github.com/YANAGANTIDEEPIKA/TwitterTweet",
+    source_code_link: "https://github.com/YANAGANTIDEEPIKA/Twitter-24",
   },
 ];
 
